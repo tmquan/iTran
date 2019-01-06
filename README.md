@@ -27,9 +27,9 @@ https://github.com/lalonderodney/SegCaps/blob/master/capsnet.py
 
 - [x] Data ISBI 2012 http://brainiac2.mit.edu/isbi_challenge/home 
 
-![ISBI 2012](data/isbi.gif){.center}
+![ISBI 2012](data/isbi.gif){ float: right; }
 
 
 - [x] Data ISBI 2013 http://brainiac2.mit.edu/SNEMI3D/
 
-![ISBI 2013](data/stack_snemi_ac4.gif){.center}
+![ISBI 2013](data/stack_snemi_ac4.gif){ float: right; }
