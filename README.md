@@ -1,5 +1,4 @@
-# iTran
-Image2Image Translation Suite
+# Image2Image Translation Suite
 
 ----------
 
