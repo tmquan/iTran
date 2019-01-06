@@ -2,13 +2,6 @@
 Image2Image Translation Suite
 
 ----------
-- [x] Data ISBI 2012 http://brainiac2.mit.edu/isbi_challenge/home 
-![ISBI 2012](data/isbi.gif)
-
-- [ ] Data ISBI 2013
-![ISBI 2013](data/stack_snemi_ac4.gif)
-
-----------
 
 - [x] Architecture of U-net ![Unet](Architecture_Unet.pdf)
 
@@ -29,3 +22,14 @@ https://github.com/lalonderodney/SegCaps/blob/master/capsnet.py
 - [ ] Compare training curves     
 
 - [ ] Compare testing images
+
+----------
+
+- [x] Data ISBI 2012 http://brainiac2.mit.edu/isbi_challenge/home 
+
+![ISBI 2012](data/isbi.gif)
+
+- [x] Data ISBI 2013
+
+![ISBI 2013](data/stack_snemi_ac4.gif)
+
