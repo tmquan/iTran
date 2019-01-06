@@ -26,11 +26,10 @@ https://github.com/lalonderodney/SegCaps/blob/master/capsnet.py
 ----------
 
 - [x] Data ISBI 2012 http://brainiac2.mit.edu/isbi_challenge/home 
-<p align="center">
+
 ![ISBI 2012](data/isbi.gif)
-</p>
+
 
 - [x] Data ISBI 2013 http://brainiac2.mit.edu/SNEMI3D/
-<p align="center">
+
 ![ISBI 2013](data/stack_snemi_ac4.gif)
-</p>
