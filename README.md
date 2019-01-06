@@ -7,7 +7,7 @@ Image2Image Translation Suite
 
 - [ ] Compare training curves     
 - [ ] Compare testing images
-- [x] Architecture of FusionNet ![Unet](Architecture_Unet.pdf)
+- [x] Architecture of U-net ![Unet](Architecture_Unet.pdf)
 
 - [x] Architecture of FusionNet ![FusionNet](Architecture_FusionNet.pdf)
 
