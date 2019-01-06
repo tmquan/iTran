@@ -6,8 +6,12 @@ Image2Image Translation Suite
 - [ ] Data ISBI 2013
 
 - [ ] Compare training curves     
+
 - [ ] Compare testing images
+
 - [x] Architecture of U-net ![Unet](Architecture_Unet.pdf)
+
+https://github.com/tensorpack/tensorpack/blob/master/docs/casestudies/colorize.md
 
 - [x] Architecture of FusionNet ![FusionNet](Architecture_FusionNet.pdf)
 
