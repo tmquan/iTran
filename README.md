@@ -6,7 +6,7 @@ Image2Image Translation Suite
 ![ISBI 2012](data/isbi.gif)
 
 - [ ] Data ISBI 2013
-![ISBI 2013](data/stack_snemi_ac4.gif.gif)
+![ISBI 2013](data/stack_snemi_ac4.gif)
 
 ----------
 
